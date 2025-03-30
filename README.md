@@ -46,6 +46,6 @@ Try the app live on Streamlit:
 ## 🔗 GitHub Repository  
 
 Find the source code and contribute here:  
-[Crypto Clash Repository](https://github.com/yourusername/crypto-clash)  
+[Crypto Clash Repository](https://github.com/taliamehmood1/finacialapp-cryptoclash)  
 
 ---
